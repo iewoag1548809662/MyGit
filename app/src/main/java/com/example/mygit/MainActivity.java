@@ -1,4 +1,4 @@
-package com.example.mygit;
+﻿package com.example.mygit;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -11,5 +11,6 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         //歹意余是垃圾
+	//高伟脑瘫
     }
 }
